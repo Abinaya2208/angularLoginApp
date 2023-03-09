@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1678361920008,
+  "timestamp": 1678362723699,
   "index": "/angularLoginApp/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/angularLoginApp/favicon.ico",
         "/angularLoginApp/index.html",
-        "/angularLoginApp/main.d26e3aaeb6b129e3.js",
+        "/angularLoginApp/main.ca5d1784a08035ed.js",
         "/angularLoginApp/manifest.webmanifest",
         "/angularLoginApp/polyfills.ed6ac68dd7a5c70e.js",
         "/angularLoginApp/runtime.249a326e8d96d563.js",
@@ -50,9 +50,9 @@
     {
       "name": "languageResponse",
       "patterns": [
-        "http:\\/\\/localhost\\/sample\\/assets\\/i18n\\/hin\\.json",
-        "http:\\/\\/localhost\\/sample\\/assets\\/i18n\\/en\\.json",
-        "http:\\/\\/localhost\\/sample\\/assets\\/i18n\\/tel\\.json"
+        "https:\\/\\/abinaya2208\\.github\\.io\\/angularLoginApp\\/assets\\/i18n\\/en\\.json",
+        "https:\\/\\/abinaya2208\\.github\\.io\\/angularLoginApp\\/assets\\/i18n\\/hin\\.json",
+        "https:\\/\\/abinaya2208\\.github\\.io\\/angularLoginApp\\/assets\\/i18n\\/tel\\.json"
       ],
       "strategy": "freshness",
       "maxSize": 100,
@@ -78,8 +78,8 @@
     "/angularLoginApp/assets/images/Profile-Male-PNG.png": "026695ab7a931a3792e5d285b4750b435a5244a8",
     "/angularLoginApp/assets/images/user2.jpg": "1d2170ac69f43bf038c8b1ac89e375e151598edf",
     "/angularLoginApp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/angularLoginApp/index.html": "0f4a7ead0185bd80ba5dc76799f95623e981d46e",
-    "/angularLoginApp/main.d26e3aaeb6b129e3.js": "580d6f1c70669d87ce252aeea3a7c73048cfcc83",
+    "/angularLoginApp/index.html": "8f3a00829c3504449214c1f2cdbfd7e59842b6f3",
+    "/angularLoginApp/main.ca5d1784a08035ed.js": "0a0f2b0f296ae1bdd51e8d3fb67d9b91901397f3",
     "/angularLoginApp/manifest.webmanifest": "4ba2e039d647c8c29a5f7a887c9f27237a3d2c37",
     "/angularLoginApp/polyfills.ed6ac68dd7a5c70e.js": "5074e89ed63ccc1ad59b8051b9ebea0d500e167a",
     "/angularLoginApp/runtime.249a326e8d96d563.js": "a984c2dc9aaca9c12fd8583af889d7a549dd327f",
