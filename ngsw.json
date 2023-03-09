@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1678370443031,
+  "timestamp": 1678371172943,
   "index": "/angularLoginApp/./index.html",
   "assetGroups": [
     {
@@ -34,7 +34,7 @@
         "https:\\/\\/abinaya2208\\.github\\.io\\/angularLoginApp\\/login",
         "https:\\/\\/abinaya2208\\.github\\.io\\/angularLoginApp\\/userDetails"
       ],
-      "strategy": "network-first",
+      "strategy": "freshness",
       "maxSize": 100,
       "maxAge": 259200000,
       "cacheQueryOptions": {
