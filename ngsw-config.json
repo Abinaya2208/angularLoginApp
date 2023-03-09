@@ -11,7 +11,7 @@
       "https://abinaya2208.github.io/angularLoginApp/userDetails"
     ],
     "cacheConfig": {
-      "strategy": "network-first",
+      "strategy": "freshness",
       "maxSize": 100,
       "maxAge": "3d"
     }
