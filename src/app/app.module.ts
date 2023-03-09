@@ -54,6 +54,6 @@ import { environment } from '../environments/environment';
 export class AppModule {}
 export function httpTranslateLoader(http: HttpClient) {
   console.log('http',http)
-  return new TranslateHttpLoader(http, '/sample/assets/i18n/', '.json');
+  return new TranslateHttpLoader(http, '/angularLoginApp/assets/i18n/', '.json');
   // return new TranslateHttpLoader(http, '../assets/i18n/', '.json');
 }
