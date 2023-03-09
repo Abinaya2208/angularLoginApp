@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1678364330250,
-  "index": "/angularLoginApp/index.html",
+  "timestamp": 1678364952658,
+  "index": "/angularLoginApp/./index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -10,15 +10,7 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [
-        "/angularLoginApp/favicon.ico",
-        "/angularLoginApp/index.html",
-        "/angularLoginApp/main.ca5d1784a08035ed.js",
-        "/angularLoginApp/manifest.webmanifest",
-        "/angularLoginApp/polyfills.ed6ac68dd7a5c70e.js",
-        "/angularLoginApp/runtime.249a326e8d96d563.js",
-        "/angularLoginApp/styles.6e794c3dd76a0af2.css"
-      ],
+      "urls": [],
       "patterns": []
     },
     {
@@ -28,21 +20,7 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [
-        "/angularLoginApp/assets/i18n/en.json",
-        "/angularLoginApp/assets/i18n/hin.json",
-        "/angularLoginApp/assets/i18n/tel.json",
-        "/angularLoginApp/assets/icons/icon-128x128.png",
-        "/angularLoginApp/assets/icons/icon-144x144.png",
-        "/angularLoginApp/assets/icons/icon-152x152.png",
-        "/angularLoginApp/assets/icons/icon-192x192.png",
-        "/angularLoginApp/assets/icons/icon-384x384.png",
-        "/angularLoginApp/assets/icons/icon-512x512.png",
-        "/angularLoginApp/assets/icons/icon-72x72.png",
-        "/angularLoginApp/assets/icons/icon-96x96.png",
-        "/angularLoginApp/assets/images/Profile-Male-PNG.png",
-        "/angularLoginApp/assets/images/user2.jpg"
-      ],
+      "urls": [],
       "patterns": []
     }
   ],
@@ -63,28 +41,7 @@
       "version": 1
     }
   ],
-  "hashTable": {
-    "/angularLoginApp/assets/i18n/en.json": "2181c6af5b6724d5c2f6e9786df3f41edac8cb66",
-    "/angularLoginApp/assets/i18n/hin.json": "830db9b58b4da5d2d4374c2a059c7573c4a61bf4",
-    "/angularLoginApp/assets/i18n/tel.json": "840dc56afee3176f19d1de73bae960452a753450",
-    "/angularLoginApp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/angularLoginApp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/angularLoginApp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/angularLoginApp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/angularLoginApp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/angularLoginApp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/angularLoginApp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/angularLoginApp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/angularLoginApp/assets/images/Profile-Male-PNG.png": "026695ab7a931a3792e5d285b4750b435a5244a8",
-    "/angularLoginApp/assets/images/user2.jpg": "1d2170ac69f43bf038c8b1ac89e375e151598edf",
-    "/angularLoginApp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/angularLoginApp/index.html": "8f3a00829c3504449214c1f2cdbfd7e59842b6f3",
-    "/angularLoginApp/main.ca5d1784a08035ed.js": "0a0f2b0f296ae1bdd51e8d3fb67d9b91901397f3",
-    "/angularLoginApp/manifest.webmanifest": "4ba2e039d647c8c29a5f7a887c9f27237a3d2c37",
-    "/angularLoginApp/polyfills.ed6ac68dd7a5c70e.js": "5074e89ed63ccc1ad59b8051b9ebea0d500e167a",
-    "/angularLoginApp/runtime.249a326e8d96d563.js": "a984c2dc9aaca9c12fd8583af889d7a549dd327f",
-    "/angularLoginApp/styles.6e794c3dd76a0af2.css": "4b8d0a94d73a0d456f27b3cc67b6cd5c0dd51287"
-  },
+  "hashTable": {},
   "navigationUrls": [
     {
       "positive": true,
