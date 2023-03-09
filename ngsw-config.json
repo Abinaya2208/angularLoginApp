@@ -6,7 +6,9 @@
     "urls":[
       "https://abinaya2208.github.io/angularLoginApp/assets/i18n/en.json",
       "https://abinaya2208.github.io/angularLoginApp/assets/i18n/hin.json",
-      "https://abinaya2208.github.io/angularLoginApp/assets/i18n/tel.json"
+      "https://abinaya2208.github.io/angularLoginApp/assets/i18n/tel.json",
+      "https://abinaya2208.github.io/angularLoginApp/login",
+      "https://abinaya2208.github.io/angularLoginApp/userDetails"
     ],
     "cacheConfig": {
       "strategy": "freshness",
