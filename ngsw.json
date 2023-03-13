@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1678693421900,
+  "timestamp": 1678693648382,
   "index": "/angularLoginApp/./index.html",
   "assetGroups": [
     {
@@ -30,9 +30,7 @@
       "patterns": [
         "https:\\/\\/abinaya2208\\.github\\.io\\/angularLoginApp\\/assets\\/i18n\\/en\\.json",
         "https:\\/\\/abinaya2208\\.github\\.io\\/angularLoginApp\\/assets\\/i18n\\/hin\\.json",
-        "https:\\/\\/abinaya2208\\.github\\.io\\/angularLoginApp\\/assets\\/i18n\\/tel\\.json",
-        "https:\\/\\/abinaya2208\\.github\\.io\\/angularLoginApp\\/login",
-        "https:\\/\\/abinaya2208\\.github\\.io\\/angularLoginApp\\/userDetails"
+        "https:\\/\\/abinaya2208\\.github\\.io\\/angularLoginApp\\/assets\\/i18n\\/tel\\.json"
       ],
       "strategy": "freshness",
       "maxSize": 100,
